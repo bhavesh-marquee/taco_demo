@@ -16,11 +16,13 @@ You can improt sample postman project from Tacos.postman_collection.json
 To run backend
 ======================
 cd /backend
+
 npx tsc
 
 
 To run backend
 ======================
 cd /frontend
+
 npm run start
 
